@@ -16,11 +16,11 @@ Estou estudando para me tornar um desenvolvedor full-stack 📚
 
 | Tecnologias | Experiência |
 | - | - |
-| HTML, CSS, Sass, Bootstrap | :star: :star: :star: :star: :star: | 
-| Javascript, jQuery | :star: :star: :star: :star: |
+| HTML, CSS | :star: :star: :star: :star: :star: |
+| Bootstrap, Styled-components, Material-Ui | :star: :star: :star: | 
+| Javascript | :star: :star: :star: :star: |
 | React.js | :star: :star: :star: :star: |
-| Node.js, PHP | :star: :star: :star: |
+| Node.js, Graphql | :star: :star: :star: |
 | React-Native | :star: :star: :star: |
-| MySQL, SQLite | :star: :star: :star: :star: |
 
 🚀 A meta de hoje é ser melhor do que ontem, não melhor que ninguém.
