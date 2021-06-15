@@ -20,7 +20,9 @@ Estou estudando para me tornar um desenvolvedor full-stack 📚
 | Bootstrap, Styled-components, Material-Ui | :star: :star: :star: | 
 | Javascript | :star: :star: :star: :star: |
 | React.js | :star: :star: :star: :star: |
-| Node.js, Graphql | :star: :star: :star: |
 | React-Native | :star: :star: :star: |
+| Node.js, Graphql | :star: :star: :star: |
+| Angular | :star: |
+
 
 🚀 A meta de hoje é ser melhor do que ontem, não melhor que ninguém.
