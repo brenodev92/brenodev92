@@ -24,5 +24,11 @@ Estou estudando para me tornar um desenvolvedor full-stack 📚
 | Node.js, Graphql | :star: :star: :star: |
 | Angular | :star: |
 
+<br />
+
+![Breno github stats](https://github-readme-stats.vercel.app/api?username=brenodev92&show_icons=true&theme=dark)
+
+<br />
+
 
 🚀 A meta de hoje é ser melhor do que ontem, não melhor que ninguém.
