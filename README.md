@@ -8,9 +8,8 @@
 [![Web Site Badge](https://img.shields.io/badge/-Web%20Site-4285F4?style=flat-square&logo=Google%20Chrome&logoColor=white&link=https://www.joaoazevedojs.com.br)](https://brenogslopes.netlify.app)
 
 ## Hello World! :wave:
-Olá, meu nome é Breno Guilherme de Souza Lopes, tenho 28 anos 📅<br/>
+Olá, sou Breno Guilherme de Souza Lopes, tenho 29 anos 📅<br/>
 Moro em Contagem, Minas Gerais 🌎<br/>
-Estou estudando para me tornar um desenvolvedor full-stack 📚
 
 ## :man_technologist: No momento, meus conhecimentos são: 
 
